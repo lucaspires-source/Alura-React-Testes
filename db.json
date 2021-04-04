@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 1000
+    "saldo": 990
   },
   "transacoes": [
     {
@@ -26,6 +26,30 @@
       "valor": "10",
       "data": "04/04/2021",
       "id": 4
+    },
+    {
+      "transacao": "Saque",
+      "valor": "10",
+      "data": "04/04/2021",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "04/04/2021",
+      "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "04/04/2021",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "04/04/2021",
+      "id": 8
     }
   ]
 }
