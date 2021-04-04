@@ -14,7 +14,18 @@
       "valor": "20",
       "data": "26/09/2020",
       "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "04/04/2021",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "04/04/2021",
+      "id": 4
     }
-
   ]
 }
