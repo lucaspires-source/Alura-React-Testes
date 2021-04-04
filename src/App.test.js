@@ -1,5 +1,5 @@
 import React from "react";
-import App, { calcularNovoSaldo } from "./App.js";
+import App, { calcularNovoSaldo} from "./App.js";
 import {
   fireEvent,
   render,
